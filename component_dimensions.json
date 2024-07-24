@@ -74,5 +74,23 @@
         "isDraggable": true,
         "isResizable": true,
         "name": ""
+    },
+    "quoty_faq_accordion_component_1721800662.js": {
+        "id": "quoty_faq_accordion_component-2bcc6326-e5ce-1ae3-1540-dc08cdd23cfd",
+        "name": "quoty_faq_accordion_component",
+        "type": "containerComponent",
+        "metadata": {},
+        "w": 7,
+        "h": 7,
+        "x": "50",
+        "y": "50",
+        "i": "__dropping-elem__",
+        "minW": 3,
+        "maxW": 12,
+        "minH": 1,
+        "moved": false,
+        "static": false,
+        "isDraggable": true,
+        "isResizable": true
     }
 }
